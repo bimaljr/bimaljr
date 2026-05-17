@@ -43,8 +43,9 @@ I build modern WordPress themes, plugins, and website templates focused on clean
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Website: https://yourwebsite.com
+- GitHub: https://github.com/bimaljr
+- Website: https://kwayyinfotech.com
+- Website: https://pbminfotech.com
 
 ---
 
