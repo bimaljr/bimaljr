@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Bimal Rekhadiya
 
-<!--
-**bimaljr/bimaljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 WordPress Theme & Plugin Developer from Gujarat, India  
+🐧 Linux Enthusiast | Open Source Lover | Self-Hosted Workflow Fan  
 
-Here are some ideas to get you started:
+I build modern WordPress themes, plugins, and website templates focused on clean UI, performance, and scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- WordPress
+- PHP
+- Elementor
+- WooCommerce
+- Bootstrap
+- JavaScript
+- HTML5 / CSS3
+- Webflow
+- Linux / Ubuntu
+
+---
+
+## 💼 What I Do
+
+- Develop premium WordPress themes
+- Create custom WordPress plugins
+- Build responsive website templates
+- Optimize website performance
+- Work with Elementor Page Builder
+- Develop WooCommerce solutions
+
+---
+
+## 🌱 Currently Exploring
+
+- AI-assisted development workflows
+- Linux customization & self-hosting
+- Modern WordPress development tools
+- Automation workflows
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Website: https://yourwebsite.com
+
+---
+
+⭐ Passionate about creating fast, modern, and user-friendly web experiences.
